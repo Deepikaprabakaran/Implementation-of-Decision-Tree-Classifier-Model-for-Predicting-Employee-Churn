@@ -18,8 +18,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: RITHIGA SRI.B
-Register Number: 212221230083  
+Developed by: DEEPIKA P
+Register Number: 212223240024
 */
 ```
 
